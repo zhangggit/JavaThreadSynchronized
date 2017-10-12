@@ -1,0 +1,1 @@
+include ':app', ':javathreadsynchronized2', ':javathreadsynchronized3', ':javathreadsynchronized4'
